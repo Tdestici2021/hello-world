@@ -1,2 +1,6 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+# Hello World
+
+Hey, my name is Tolga Destici. I'm learning the GitHub Flow.
+
+- This repo holds ideas, resources, and notes.
+- Practicing branches, commits, and pull requests.
